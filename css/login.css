@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.flex{
+    display: flex;
+}
+
+.header{
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.textsec{
+    margin-left: 10px;
+}
+
+.ingen{
+    padding-right: 20px;
+    /* width: 10%; */
+    Height:16.76px;
+}
+
+.ingen .imgsec1{
+    margin-right: 10px;
+}
+
+.first{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 3em;
+}
+.first h2{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 38px;
+line-height: 110%;
+/* or 42px */
+
+text-align: center;
+
+/* main */
+
+color: #005555;
+}
+
+.user .forinput{
+    margin-bottom: 2.05em ;
+    background: rgba(217, 217, 217, 0.5);
+border: 1px solid #616161;
+border-radius: 20px;
+padding: 10px;
+width: 90%;
+margin-left: 10px;
+}
+
+.user{
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
+
+.btn{
+    align-items: center;
+    background: #005555;
+    border-radius: 20px;
+    padding: 14px 7em;
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 90%;
+    color: white;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.btn a{
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 110%;
+/* or 24px */
+    color: #FFFFFF;
+}
+
+span a{
+    text-decoration: none;
+    color: #005555;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 125.52%;
+/* identical to box height, or 23px */
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+
+span{
+    margin-left: 8em;
+    margin-top: 20px;
+}
+
+.more p{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 22px;
+margin-top: 13px;
+margin-bottom: 10px;
+color: rgba(0, 0, 0, 0.5);
+}
+
+.more h3{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+
+color: rgba(0, 0, 0, 0.5);
+margin-bottom: 20px;
+
+}
+
+.move{
+    justify-content: center;
+    text-align: center;
+}
+.animg a{
+text-decoration: none;
+}
+
+.pic1,.pic2{
+    margin-right: 10px;
+    height: 44px;
+    margin-bottom: 20px;
+}
+.more{
+    text-align: center;
+}
+
+footer a{
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 125.52%;
+    /* identical to box height, or 23px */
+    
+    letter-spacing: 0.02em;
+    margin-left: 5px;
+    color: #005555 ;
+    }
+    
+    .footer{
+     text-align: center; 
+       padding-bottom: 30px;
+       justify-content: center;
+    }
+    
+    .footer p{
+        font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 125.52%;
+    /* identical to box height, or 23px */
+    
+    letter-spacing: 0.02em;
+    
+    color: #828282;
+    }

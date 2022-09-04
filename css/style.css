@@ -41,3 +41,7 @@ letter-spacing: 0.17em;
 text-align: left;
 color: white;
 }
+
+main a{
+    cursor: pointer;
+}
